@@ -43,5 +43,6 @@ Não será fornecido um layout para esta overlay, estando o desenvolvedor livre 
 - A framework de JS escolhida fica a critério do desenvolvedor. Pode utlizar jquery, angular 2+ ou oq for mais confortável, porém, se fizer com AngularJS 1.6 terá pontos extras, já que o mesmo é utilizado no dia a dia aqui na Mercado de Negócios;
 - O uso de bibliotecas feitas com jquery/angular (entre outros) é permitida;
 - Não se preocupe em realizar todas as requisições. Tenha senso de priporidade e faça o que conseguir. O importante é tentar;
+- Se não for possível abrir os arquivos PSD por meio de software, é possível abrir no site [project parfait]()(http://projectparfait.adobe.com/) da adobe. É possível criar uma conta gratuitamente lá e visualizar os arquivos, como se estivesse no photoshop.
 - O login pode ser feito de forma simulada, usando variáveis para controle e exibição (abrir e fechar o login, mostrar o nome do usuário logado);
 - O teste não exige nenhum desenvolvimento de backEnd.
