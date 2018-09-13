@@ -2,8 +2,7 @@
 
 O teste consiste na implementação de um exemplo de case para sites exclusívos, onde o dev receberá o layout de uma determinada tela e deverá implementa-lá.
 
-### Implementações essenciais 
-
+### Essencial
 - HTML5 Semantico e focado em SEO (se possível);
 - Uso de CSS3 e seus recursos;
 - JavaSript seguindo boas práticas.
@@ -16,7 +15,10 @@ O teste consiste na implementação de um exemplo de case para sites exclusívos
 - Gerar pasta com o projeto buildado e tratado pelo Gulp.
 
 ### Regras
-- Você tem 24h para realizar o teste, assim que receber o email com o teste e fizer o fork do projeto.
+- Você tem 24h para realizar o teste, assim que receber o email com o teste e fizer o fork do projeto;
+- Faça o fork do projeto em seu GitHub, desenvolva, commita e de push;
+- Ao finalizar o teste, envie para o email que recebeu o teste um email com o link do seu github contendo o fork do projeto;
+- Em último caso, se não conseguir utilizar o git você pode enviar um .zip com o projeto.
 
 ### Dicas
 - A framework de JS escolhida fica a criterio do desenvolvedor. Pode utlizar jquery, angular 2+ ou oq for mais confortável, porém, se fizer com AngularJS 1.6 terá pontos extras, já que o mesmo é utilizado no dia a dia aqui na Mercado de Negócios;
