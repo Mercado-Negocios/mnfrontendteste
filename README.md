@@ -2,6 +2,15 @@
 
 O teste consiste na implementação de um exemplo de case para sites exclusívos, onde o dev receberá o layout de uma determinada tela e deverá implementa-lá.
 
+## 1 - Requisito: Desenvolvimento tela da home
+O layout consiste basicamente na home de um site. Todas as imagens presentes no layout estão disponíveis nos arquivos PDS's disponibilizados no repositório do projeto, na pasta [layout_arquivos](https://github.com/Mercado-Negocios/mnfrontendteste/tree/master/layout_arquivos).
+
+Todas as informações podem ser implementadas de forma estatica, os selects, as thumbs e demais informações de página. Disponibilizamos a imagem [instrucoes-layout](https://github.com/Mercado-Negocios/mnfrontendteste/blob/master/layout_arquivos/instrucoes-layout.jpg) que contem dicas caso o framework útilizado para desenvolver a página seja AngularJS 1.6.
+
+Os efeitos de `hover` que não estiverem presentes na página (botão presente na thumb por exemplo) fica a criterio do desenvolvedor, poder mostrar sua criatividade.
+
+## 2 - Requisito: Desenvolvimento da overlay de login
+
 ### Essencial
 - HTML5 Semantico e focado em SEO (se possível);
 - Uso de CSS3 e seus recursos;
