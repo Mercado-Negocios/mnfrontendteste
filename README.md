@@ -6,7 +6,7 @@ O layout consiste basicamente na home de um site, responsíva e adaptavel para m
 
 Todas as imagens e PDS's do layout estão disponibilizados no repositório do projeto, na pasta [layout_arquivos](https://github.com/Mercado-Negocios/mnfrontendteste/tree/master/layout_arquivos).
 
-Todas as informações podem ser implementadas de forma estatica, os selects, as thumbs (neste caso, vc deve usar JS ou AngularJS para repetir as thumbs no numero de vezes solicitado pelo layout, não copiar o e colar a thumb) e demais informações de página. Disponibilizamos a imagem [instrucoes-layout](https://github.com/Mercado-Negocios/mnfrontendteste/blob/master/layout_arquivos/instrucoes-layout.jpg) que contem dicas caso o framework útilizado para desenvolver a página seja AngularJS 1.6.
+Todas as informações podem ser implementadas de forma estatica, os selects (usar JS ou AngularJS para fazer as opções dos selects), as thumbs (usar JS ou AngularJS para repetir as thumbs no numero de vezes solicitado pelo layout, não copiar o e colar a thumb) e demais informações de página. Disponibilizamos a imagem [instrucoes-layout](https://github.com/Mercado-Negocios/mnfrontendteste/blob/master/layout_arquivos/instrucoes-layout.jpg) que contem dicas caso o framework útilizado para desenvolver a página seja AngularJS 1.6.
 
 Os efeitos de `hover` que não estiverem presentes na página (botão presente na thumb por exemplo) fica a criterio do desenvolvedor, poder mostrar sua criatividade.
 
@@ -17,6 +17,8 @@ O texto com a palavra `login` estará posicionado no lugar de "Olá Vitor Caponi
  - Clicou em login, abrirá uma overlay com os campos de `usuario` e `senha`, além de um botão com `esqueci minha senha` e `entrar`. Ao preencher os campos de usuário e senha e clicar em `entrar` a overlay deverá ser fechada e o texto inicial `login` deverá ficar no botão que está no layout "Olá Vitor Caponi | Sair". O botão de `sair` deverá voltar para o texto `login`.
 
 Não será fornecido um layout para esta overlay, estando o desenvolvedor livre para mostrar sua criatividade e conhecimentos.
+
+## Informações importantes
 
 ### Essencial
 - HTML5 Semantico e focado em SEO (se possível);
