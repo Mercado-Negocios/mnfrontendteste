@@ -4,9 +4,9 @@ O teste consiste na implementação de um exemplo de **case** para sites exclus�
 ## 1 - Requisito: Desenvolvimento tela da home
 O layout consiste basicamente na home de um site, responsiva e adaptável para mobile.
 
-Todas as imagens e PDS's do layout estão disponibilizados no repositório do projeto, na pasta [layout arquivos](https://github.com/Mercado-Negocios/mnfrontendteste/tree/master/layout_arquivos).
+Todas as imagens presentes na tela estão nos PDS's do layout, disponibilizados no repositório do projeto, na pasta [layout arquivos](https://github.com/Mercado-Negocios/mnfrontendteste/tree/master/layout_arquivos).
 
-Todas as informações podem ser implementadas de forma estática, os selects (usar JS ou AngularJS para fazer as opções dos selects), as thumbs (usar JS ou AngularJS para repetir as thumbs no numero de vezes solicitado pelo layout, não copiar o e colar a thumb) e demais informações de página. Disponibilizamos a imagem [instrucoes layout](https://github.com/Mercado-Negocios/mnfrontendteste/blob/master/layout_arquivos/instrucoes-layout.jpg) que contem dicas caso o framework utilizado para desenvolver a página seja AngularJS 1.6.
+Todas as informações podem ser implementadas de forma estática, os selects (usar JS ou AngularJS para fazer as opções dos selects), as thumbs (usar JS ou AngularJS para repetir as thumbs no numero de vezes solicitado pelo layout, não copiar e colar a thumb) e demais informações de página. Disponibilizamos a imagem [instrucoes layout](https://github.com/Mercado-Negocios/mnfrontendteste/blob/master/layout_arquivos/instrucoes-layout.jpg) que contem dicas caso o framework utilizado para desenvolver a página seja AngularJS 1.6.
 
 Os efeitos de `hover` que não estiverem presentes na página (botão presente na thumb, por exemplo) fica a critério do desenvolvedor, poder mostrar sua criatividade.
 
@@ -23,13 +23,13 @@ Não será fornecido um layout para esta overlay, estando o desenvolvedor livre 
 ### Regras
 - Você tem 24h para realizar o teste, assim que receber o email com o teste e fizer o **fork** do projeto;
 - Faça o fork do projeto em seu GitHub, desenvolva, commita e de push;
-- Ao finalizar o teste, envie para o email que recebeu o teste um email com o link do seu github contendo o fork do projeto;
+- Ao finalizar o teste, envie email com o link do seu github contendo o fork do projeto;
 - Em último caso, se não conseguir utilizar o git você pode enviar um .zip com o projeto.
 
 ### Essencial
 - HTML5 Semantico e focado em SEO (se possível);
 - Uso de CSS3 e seus recursos;
-- JavaSript seguindo boas práticas.
+- JavaScript seguindo boas práticas.
 
 ### Ganha pontos extras
 - Estruturar HTML com frameworks como BootStrap (versão 3 ou 4) e materializecss;
@@ -40,9 +40,9 @@ Não será fornecido um layout para esta overlay, estando o desenvolvedor livre 
 - Gerar pasta com o projeto buildado e tratado pelo Gulp.
 
 ### Dicas
-- A framework de JS escolhida fica a critério do desenvolvedor. Pode utlizar jquery, angular 2+ ou oq for mais confortável, porém, se fizer com AngularJS 1.6 terá pontos extras, já que o mesmo é utilizado no dia a dia aqui na Mercado de Negócios;
+- A framework de JS escolhida fica a critério do desenvolvedor. Pode utlizar jquery, angular 2+ ou oq for mais confortável, porém, se fizer com AngularJS 1.6 terá pontos extras, já que o mesmo é utilizado no dia a dia na Mercado de Negócios;
 - O uso de bibliotecas feitas com jquery/angular (entre outros) é permitida;
 - Não se preocupe em realizar todas as requisições. Tenha senso de priporidade e faça o que conseguir. O importante é tentar;
-- Se não for possível abrir os arquivos PSD por meio de software, é possível abrir no site [project parfait](http://projectparfait.adobe.com/) da adobe. É possível criar uma conta gratuitamente lá e visualizar os arquivos, como se estivesse no photoshop.
+- Se não for possível abrir os arquivos PSD por meio de software, é possível abrir no site [project parfait](http://projectparfait.adobe.com/) da adobe. Basta criar uma conta gratuitamente lá e visualizar os arquivos, como se estivesse no photoshop (você consegue baixar as imagens presentes na página entre outras funções).
 - O login pode ser feito de forma simulada, usando variáveis para controle e exibição (abrir e fechar o login, mostrar o nome do usuário logado);
 - O teste não exige nenhum desenvolvimento de backEnd.
